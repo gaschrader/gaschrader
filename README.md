@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo Gabriel Schrader
-- 👀 Atualmente, estou interessado em aprender a como programar melhor e ser um bom programador
+- 👀 Busco cada dia aprender mais para me tornar um bom programador
 - 📕 Estudo Ciências da Computação na Universidade Federal de São Paulo, UNIFESP, aprendendo linguagem C e Python
 
 
