@@ -1,7 +1,6 @@
-- 👋 Olá, me chamo Gabriel Schrader
-- 👀 Busco cada dia aprender mais para me tornar um bom programador
-- 📕 Estudo Ciências da Computação na Universidade Federal de São Paulo, UNIFESP, aprendendo linguagem C e Python
-
+- 👋 Olá, me chamo Gabriel Schrader.
+- 👀 Buscando a cada dia me tornar uma versão melhor de mim mesmo.
+- 📕 Estudo Ciência da Computação na Universidade Federal de São Paulo(UNIFESP), no momento estou com foco em C e Python, aprendendo também Javascript.
 
 <div>
   <a href = "https://github.com/gaschrader">
